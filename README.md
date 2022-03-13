@@ -8,7 +8,7 @@ The tool is available at:
 [CORONET_tool](https://coronet.manchester.ac.uk/)
 
 This repository contains code to run a CORONET model used in the tool to generate recommendation:
-- [CORONET_functions.py](https://github.com/digital-ECMT/CORONET_tool/blob/main/CORONET_functions.py) - all functions responsible for data processing, prediction, explanation and finding similar patients in the dataset
+- [CORONET_functions.py](https://github.com/digital-ECMT/CORONET_tool/blob/main/CORONET_functions.py) - all functions for data processing, prediction, explanation and finding similar patients in the dataset
 - [code_testing_CORONET.py](https://github.com/digital-ECMT/CORONET_tool/blob/main/code_testing_CORONET.py) - a script to test the main function 'predict_and_explain'
 - [code_testing_CORONET_functions.py](https://github.com/digital-ECMT/CORONET_tool/blob/main/code_testing_CORONET_functions.py) - a script to test individual functions
 - [most_similar_patients_script.py](https://github.com/digital-ECMT/CORONET_tool/blob/main/most_similar_patients_script.py) - a script to test finding similar patients
